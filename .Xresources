@@ -1,0 +1,9 @@
+! ------------------------------------------------------------------------------
+! ROFI Dull, Gray, and Boring.
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-normal:                   argb:00ff0000, #C2C4BE, argb:00ff0000, argb:FF878985, argb:FF232F39
+rofi.color-urgent:                   argb:00232F39, #5FABD9, #232F39, #5FABD9, #C2C4BE
+rofi.color-active:                   argb:00232F39, #C2C4BE, #232F39, #6DC6E4, #232F39
+rofi.color-window:                   argb:E610171A, #232F39, #ff00ff
+rofi.font: GohuFont Regular 12
