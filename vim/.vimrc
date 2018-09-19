@@ -26,6 +26,8 @@ set softtabstop=2
 set number
 set relativenumber
 set noswapfile
+set termguicolors
+set t_ut=
 
 " -- -- -- Plugins
 Plugin 'sheerun/vim-polyglot'
@@ -42,6 +44,8 @@ Plugin 'prettier/vim-prettier', {'do': 'yarn install'}
 Plugin 'sts10/vim-pink-moon'
 Plugin 'phanviet/vim-monokai-pro'
 Plugin 'ajmwagar/vim-deus'
+Plugin 'YorickPeterse/happy_hacking.vim'
+Plugin 'YorickPeterse/Autumn.vim'
 
 " -- -- -- HJKL between windows in Vim
 nnoremap <C-J> <C-W><C-J>
